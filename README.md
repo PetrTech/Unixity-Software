@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Unixity Software
 
-You can use the [editor on GitHub](https://github.com/PetrTech/UnixitySoftware/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Products made by team Unixity (including the unixity engine) may not be redistributed without my permission.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you run our software launchers you will be able to test them for a few days (note: you will have to ask me to get the license when your demo comes out).
 
-### Markdown
+### Terms of Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Products made by team Unixity (including the unixity engine) may not be redistributed without my permission.
+You have a limited license to use our software and any of these terms may not be broken.
+Breaking any of these rules will lead to a software license ban.
+It is reccommended that you stay up to date with our software for new features and security updates (note: this one could be broken)
 
-```markdown
-Syntax highlighted code block
+### Our future products
 
-# Header 1
-## Header 2
-### Header 3
+We plan to create products for:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PetrTech/UnixitySoftware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Drawing,
+Vector Drawing,
+Photo Editing
+and music
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Unixity? Check out our [documentation](https://petrtech.github.io/Unixity-Documentation/)!
+
+## Unixity Software is still being updated and will be for the next few years
