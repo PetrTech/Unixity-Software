@@ -28,4 +28,8 @@ Having trouble with Unixity? Check out our [documentation](https://petrtech.gith
 
 ### Want to download Unixity software?
 
-Our only software right now is an engine. Unixity engine [download](https://github.com/PetrTech/Unixity)  (Minimal requirements: 4GB of ram, 2GB of VRam, 92MB of storage and knowledge of C++) (software required: [Visual Studio 2017+ Community](https://visualstudio.microsoft.com/en/)) (Recommended Software: [Paint.net](https://getpaint.net) or [photoshop](https://www.adobe.com/cz/products/photoshop.html), [Newest Visual Studio](https://visualstudio.microsoft.com/en/) and any other IDE that supports C++ (incase VS breaks)) (Recommended Hardware: 8-16GB of ram, 4GB of VRAM, 1GB of storage (for the projects) (recommended is an SSD) and knowledge of C++, C and C#) (note: you have to go to visual studio installer and modify your version and add C++ atleast)
+## Unixity engine
+[download](https://github.com/PetrTech/Unixity)  (Minimal requirements: 4GB of ram, 2GB of VRam, 92MB of storage and knowledge of C++) (software required: [Visual Studio 2017+ Community](https://visualstudio.microsoft.com/en/)) (Recommended Software: [Paint.net](https://getpaint.net) or [photoshop](https://www.adobe.com/cz/products/photoshop.html), [Newest Visual Studio](https://visualstudio.microsoft.com/en/) and any other IDE that supports C++ (incase VS breaks)) (Recommended Hardware: 8-16GB of ram, 4GB of VRAM, 1GB of storage (for the projects) (recommended is an SSD) and knowledge of C++, C and C#) (note: you have to go to visual studio installer and modify your version and add C++ atleast)
+
+## Unixity paint
+[open](https://Unixity-Paint--petrned.repl.co) (Web based application. No minimal requirements or software set)
